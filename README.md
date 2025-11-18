@@ -44,20 +44,25 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+![eee1](https://github.com/user-attachments/assets/baa7a889-d7c9-4c04-a905-3857cf26cc02)
+
  
 
 
 b.  KCL:
+![eee2](https://github.com/user-attachments/assets/9fab6cdb-931d-415e-94d3-c723848c830b)
+
  
 
 Calculation:
 
 a.   KVL:
+![harshu](https://github.com/user-attachments/assets/a3eeebd9-7c3d-4035-a9c0-02b86f276e48)
  
 
 
 b.  KCL:
-
+![kopii](https://github.com/user-attachments/assets/751e1d0b-dd96-4410-a46a-7737bd6a0d68)
 
 
 
@@ -65,12 +70,19 @@ Tabulation:
 
 a.   KVL:
  
-![harshu](https://github.com/user-attachments/assets/a3eeebd9-7c3d-4035-a9c0-02b86f276e48)
+|KVL|Source(V)|$$V_{30\Omega}$$|$$V_{50\Omega}$$|$$V_{100\Omega}$$|$$V_{30\Omega}+V_{50\Omega}+V_{100\Omega}$$|
+ |:-----:|:-----:|:------------:|:--------------:|:---------------:|:-----------------------------------------:|
+ |Theoretical|100|16.68V|27.8V|55.6V|100.05V|
+ |partical|100|16.7V|27.8V|55.6V|100.1V|
 
 
 b.  KCL:
+|KVL|$$V_{30\Omega}$$|$$I_{50\Omega}$$|$$I_{100\Omega}$$|$$V_A$$|
+ |:-----:|:-----:|:------------:|:--------------:|:---------------:|
+ |Theoretical|1.58A|1.05A|0.53A|52.63V|
+ |partical|1.58A|1.05A|0.53V|52.6V|
 
-![kopii](https://github.com/user-attachments/assets/751e1d0b-dd96-4410-a46a-7737bd6a0d68)
+
 
 
 RESULT:
