@@ -65,10 +65,12 @@ Tabulation:
 
 a.   KVL:
  
+![harshu](https://github.com/user-attachments/assets/a3eeebd9-7c3d-4035-a9c0-02b86f276e48)
 
 
 b.  KCL:
 
+![kopii](https://github.com/user-attachments/assets/751e1d0b-dd96-4410-a46a-7737bd6a0d68)
 
 
 RESULT:
