@@ -57,13 +57,14 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
-![harshu](https://github.com/user-attachments/assets/a3eeebd9-7c3d-4035-a9c0-02b86f276e48)
+![harsh1](https://github.com/user-attachments/assets/c6199864-be1e-4336-bd15-d3b11be98986)
+
  
 
 
 b.  KCL:
-![kopii](https://github.com/user-attachments/assets/751e1d0b-dd96-4410-a46a-7737bd6a0d68)
 
+![harsh](https://github.com/user-attachments/assets/0ae75b9a-e82d-457b-835f-7c7fb6eee77a)
 
 
 Tabulation:
