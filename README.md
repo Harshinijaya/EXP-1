@@ -57,14 +57,37 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
-![harsh1](https://github.com/user-attachments/assets/c6199864-be1e-4336-bd15-d3b11be98986)
+$$V=V_{1}+V_{2}+V_{3}$$
+$$100=IR_{1}+IR_{2}+IR_{3}$$
+$$R_{eq}=R_{1}+R_{2}+R_{3}$$
+$$R_{eq}=180\Omega$$
+$$I=V/R_{eq}=100/180=0.556V$$
+$$V_{1}=V_{30}\Omega=IR_{1}=0.556*30=16.68V$$
+$$V_{2}=V_{50}\Omega=IR_{2}=0.556*50=27.8V$$
+$$V_{3}=V_{100\Omega}=IR_{3}=0.556*100=55.6V$$
+
+
 
  
 
 
 b.  KCL:
+$$i30\Omega=I_{50\Omega}+I_{100\Omega}$$
+$$i30\Omega=\frac{100-V}{30}$$
+$$I_{50\Omega}=\frac{V}{50}$$
+$$I_{100\Omega}=\frac{V}{50}$$
+$$\frac{100-V}{30}=\frac{V}{50}+\frac{V}{100}$$
+$$\frac{100-V}{30}=\frac{2V}{100}+\frac{V}{100}$$
+$$\frac{100-V}{30}=\frac{2V+V}{100}$$
+$$\frac{100-V}{3}=\frac{3V}{10}$$
+$$1000-10V=9V$$
+$$19V=1000$$
+$$V=\frac{1000}{19}=52.63V$$
+$$i_{30}\Omega=\frac{100-V}{30}==\frac{100-52.63}{30}=1.58A$$
+$$I_{50\Omega}=\frac{V}{50}=\frac{52.63}{50}=1.05A$$
+$$I_{100\Omega}=\frac{V}{50}=\frac{52.63}{100}=0.53A$$
 
-![harsh](https://github.com/user-attachments/assets/0ae75b9a-e82d-457b-835f-7c7fb6eee77a)
+
 
 
 Tabulation:
