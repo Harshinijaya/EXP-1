@@ -57,6 +57,7 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
+
 $$V=V_{1}+V_{2}+V_{3}$$
 $$100=IR_{1}+IR_{2}+IR_{3}$$
 $$R_{eq}=R_{1}+R_{2}+R_{3}$$
@@ -72,6 +73,7 @@ $$V_{3}=V_{100\Omega}=IR_{3}=0.556*100=55.6V$$
 
 
 b.  KCL:
+
 $$i30\Omega=I_{50\Omega}+I_{100\Omega}$$
 $$i30\Omega=\frac{100-V}{30}$$
 $$I_{50\Omega}=\frac{V}{50}$$
